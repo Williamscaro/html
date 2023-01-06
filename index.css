@@ -1,0 +1,63 @@
+body{
+  background-color: #FFFFFF;
+}
+.principal{
+  background-color: #CCCCCC;
+  padding: 20px;
+}
+.header{
+  border-radius: 50px;
+  background-color: #4E4EC6;
+  padding-bottom: 50px;
+}
+
+#banner{
+  width: 100%;
+}
+
+h1{
+  text-align: center;
+  color: #FFFFFF;
+}
+
+
+#mission{
+  font-size: 20px;
+
+}
+
+em strong{
+  color: #4a3737;
+}
+
+.lastone{
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  background-color: #C64E4E;
+  color: #FFFFFF;
+  padding: 50px;
+}
+
+.diferenciales{
+  padding: 30px;
+}
+
+.diferenciales h2{
+  text-align: center;
+  margin-bottom: 40px;
+}
+.diferenciales ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 20%;
+}
+
+.items{
+  font-style: italic;
+
+}
+
+.imagenDiferenciales{
+  width: 50%;
+}
